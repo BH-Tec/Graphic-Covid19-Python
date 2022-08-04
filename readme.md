@@ -3,10 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://pokedeck-brunoh.netlify.app">Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://brunodorea-graphic-covid19-python-codigobase-6dynb2.streamlitapp.com/">Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -26,14 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de criação de um Grafico interativo para visualização de dados da Covid-19 com Python.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
----
-
-## Aulas
-
-- Aula 1
-
----
+--
