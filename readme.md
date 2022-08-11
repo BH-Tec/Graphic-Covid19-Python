@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de criação de um Grafico interativo para visualização de dados da Covid-19 com Python.
 
---
+---
